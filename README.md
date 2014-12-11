@@ -1,3 +1,5 @@
+<a href='https://travis-ci.org/022aditya/EkstaziJenkinsPlugin'><img src='https://secure.travis-ci.org/022aditya/EkstaziJenkinsPlugin.png?branch=master'></a>
+
 To run in debug mode:  
 1. cd ekstazi  
 2. ./debug.sh  
